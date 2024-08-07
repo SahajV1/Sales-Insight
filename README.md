@@ -1,1 +1,1 @@
-# Sales-Insigh
+# Sales-Insight
