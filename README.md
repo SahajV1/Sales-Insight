@@ -18,27 +18,26 @@
 ### Here are some key visualizations from the analysis:
 
 - Technology Profit Margin
+  
 ![Untitled](https://github.com/user-attachments/assets/c87d4ca7-91eb-44e9-b06d-1e9cc4685231)
-
-
 
 Figure: Profit margin by product category, showing that technology products have the highest profit margin.
 
 - Sales by Regions
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0db24a51-4dc5-4da9-879e-547804a3950c/1f7bbadd-aa50-4749-911c-e93b6f9bcca8/Untitled.png)
+   
+![2](https://github.com/user-attachments/assets/83392c3c-71f1-420d-9115-e6a8cd7352a6)
 
 Figure: Sales distribution across regions, indicating that the Central region has the highest sales
 
 - Monthly Sales
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0db24a51-4dc5-4da9-879e-547804a3950c/c708da95-f207-4cb7-a792-35b5f7caf0a1/Untitled.png)
+  
+![3](https://github.com/user-attachments/assets/68f50303-1f2a-45eb-9c86-91f9cb299c15)
 
 Figure: Sales distribution across regions, indicating that the Central region has the highest sales.
 
 - Returns Rates
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0db24a51-4dc5-4da9-879e-547804a3950c/e4ad3067-6dd7-409e-868b-37184b5cbb01/Untitled.png)
+![4](https://github.com/user-attachments/assets/87a6e92b-8539-4360-a520-ff5d825e008b)
 
 Figure: Return rates comparison, highlighting that same-day shipping has the lowest rate of returned products.
 
