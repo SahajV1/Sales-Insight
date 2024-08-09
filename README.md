@@ -14,7 +14,6 @@
 
 - **Methods:** The dataset was analyzed by hypothesis testing, data visualization, and descriptive statistics.
 - **Tools Used:** Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
-- **Code and Dashboard Links:** [GitHub Repository](https://www.notion.so/Superstore-Sales-Analysis-6fe8a17d3ef94e2aa21f706822ef2b5f?pvs=21)
 
 ### Here are some key visualizations from the analysis:
 
