@@ -18,8 +18,9 @@
 ### Here are some key visualizations from the analysis:
 
 - Technology Profit Margin
+![Untitled](https://github.com/user-attachments/assets/c87d4ca7-91eb-44e9-b06d-1e9cc4685231)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/0db24a51-4dc5-4da9-879e-547804a3950c/c3f95536-ddd4-4faa-af8e-e19625be3fab/Untitled.png)
+
 
 Figure: Profit margin by product category, showing that technology products have the highest profit margin.
 
